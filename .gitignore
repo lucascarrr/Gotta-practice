@@ -1,0 +1,79 @@
+# Ignore compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Ignore executables
+*.exe
+*.out
+*.app
+
+# Ignore compiled dynamic libraries
+*.so
+*.dll
+*.dylib
+
+# Ignore compiled libraries or archive files
+*.a
+*.lib
+
+# Ignore images and other common binary file formats
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.ico
+*.tif
+*.tiff
+*.bmp
+
+# Ignore audio and video files
+*.mp3
+*.wav
+*.mp4
+*.avi
+*.mov
+
+# Ignore compressed files
+*.zip
+*.rar
+*.tar.gz
+*.7z
+*.gz
+
+# Ignore compiled object files for C++, Python, etc.
+*.pyc
+*.pyo
+*.pyd
+*.class
+*.jar
+
+# Ignore database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignore compiled LaTeX files
+*.aux
+*.log
+*.synctex.gz
+
+# Ignore compiled documentation files
+*.pdf
+*.docx
+*.pptx
+
+# Ignore binary files from IDEs
+.idea/
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore compiled WebAssembly files
+*.wasm
+
+# Ignore compiled Java bytecode
+*.class
+
